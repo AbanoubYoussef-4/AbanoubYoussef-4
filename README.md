@@ -11,7 +11,7 @@ I am deeply committed to maintaining the utmost product quality and meeting dead
 Let me help you turn your vision into reality and achieve remarkable success ✔
 
 * 🌍  I'm based in Egypt Cairo
-* ✉️  You can contact me at [abanoub.youssef@scandiweb.com](mailto:abanoub.youssef@scandiweb.com)
+* ✉️  You can contact me at [abanoub.youssef@scandiweb.com](mailto:abanoub.youssef@scandiweb.com) or [abanoubyossef28@gmail.com](mailto:abanoubyossef28@gmail.com)
 * 🧠  I'm learning Everything about Programming and Solving Real World Problems
 * 🤝  I'm open to collaborating on E-Commerce Projects, Management Systems
 
