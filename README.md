@@ -28,7 +28,9 @@ Let me help you turn your vision into reality and achieve remarkable success ✔
 <a href="https://hyva.io/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Hyva_Themes-003CFF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Hyva Themes" />
 </a>
-
+<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" width="36" height="36" alt="Magento 2" />
+</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
